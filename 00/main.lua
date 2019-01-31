@@ -121,19 +121,10 @@ function love.draw()
                 pillar_height * 2,
                 pillar_width)
    end
-   
-   if shouldrecord then
-      lg.captureScreenshot(tostring(screens) .. ".png")
-      screens = screens + 1
-   end
 end
 
 function love.keypressed(k)
    if k == "escape" then
       love.event.quit()
-   end
-
-   if k == "r" then
-      shouldrecord = not shouldrecord
    end
 end
