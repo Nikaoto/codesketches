@@ -1,3 +1,4 @@
+-- codesketch 00 by Nika Otiashvili
 
 local lg = love.graphics
 
