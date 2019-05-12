@@ -1,4 +1,6 @@
--- codesketch 00 by Nika Otiashvili
+-- codesketch 00
+-- Title: wobble
+-- Author: Nika Otiashvili
 
 local lg = love.graphics
 
