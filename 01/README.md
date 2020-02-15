@@ -1,3 +1,5 @@
 # Sketch 01 - loading
-![sketch 01 - loading](https://i.imgur.com/K6xd8bh.gif)
+![sketch 01 - loading](./loading.gif)
 
+
+![sketch 01 - loading](./output.gif)

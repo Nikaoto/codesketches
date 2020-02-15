@@ -11,7 +11,6 @@ local lg = love.graphics
 local canvas = lg.newCanvas(WINDOW_WIDTH, WINDOW_HEIGHT)
 
 function sq(x) return x * x end
-function sqrt(x) return math.sqrt(x) end
 
 function lerp(a, b, amount)
    return a + ((b - a) * amount)
@@ -19,10 +18,6 @@ end
 
 local randrange = function(from, to)
    return lerp(from, to, math.random())
-end
-
-function ease_in(amount)
-   return sq(amount)
 end
 
 local m = 3
