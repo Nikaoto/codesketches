@@ -1,3 +1,7 @@
+-- codesketch 02
+-- Title: mandelbrot
+-- Author: Nika Otiashvili
+
 -- Maximum number of 'layers' in the set. Increase to get more detail, but also takes longer to draw
 maxIterations = 76
 
