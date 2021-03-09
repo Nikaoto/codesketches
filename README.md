@@ -6,5 +6,5 @@ For example, here's what the first sketch looks like:
 ![sketch 00 - wobble](./00/output.gif)
 
 Anyone is free to use any piece of code in this repository for any purpose.
-Refer to LICENSE for more details.
+Refer to [LICENSE](./LICENSE) for more details.
 
